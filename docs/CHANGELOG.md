@@ -7,6 +7,10 @@ title: Changelog
 
 ## main
 
+* Set up Codespaces for bug replication.
+
+    *Simon Fish*
+
 * Make @boardfish a committer.
 
     *Joel Hawksley*
